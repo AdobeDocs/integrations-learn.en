@@ -39,7 +39,7 @@ hidefromtoc: true
 
 <table>
  <tr style= "border: 0;">
-  <td align="center"> <strong style= "font-size: 2em">Prompting made easy.</strong><p> Master the AI skills to transform your workflows and lead your industry forward. Master the AI skills to transform your workflows and lead your industry forward. Master the AI skills to transform your workflows and lead your industry forward.</td>
+  <td align="center"> <strong style= "font-size: 2em"> FOO Prompting made easy.</strong><p> Master the AI skills to transform your workflows and lead your industry forward. Master the AI skills to transform your workflows and lead your industry forward. Master the AI skills to transform your workflows and lead your industry forward.</td>
   <td><img src="./assets/medium.png"></td>
  </tr>
 </table>

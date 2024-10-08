@@ -62,8 +62,6 @@ hidefromtoc: true
  </tr>
 </table>
 
-https://video.tv.adobe.com/v/26061?format=jpeg
-
 >[!BEGINSHADEBOX]
 
 <table>

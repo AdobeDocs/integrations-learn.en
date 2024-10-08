@@ -16,12 +16,7 @@ hidefromtoc: true
 <table>
  <tr style= "border: 0;">
   <td align="center">
-    <strong style= "font-size: 2em"> Master Generative AI. Transform your workflows.</strong>
-  </td>
- </tr>
- <tr style= "border: 0;">
-  <td align="center">
-    Learn core skills for using generative AI in marketing workflows. Anywhere. For Free.
+    <strong style= "font-size: 2em"> Master Generative AI. Transform your workflows.</strong><p>Learn core skills for using generative AI in marketing workflows. Anywhere. For Free.
   </td>
  </tr>
 </table>

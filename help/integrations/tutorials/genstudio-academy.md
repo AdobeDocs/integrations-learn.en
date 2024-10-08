@@ -40,7 +40,7 @@ hidefromtoc: true
 <table>
  <tr style= "border: 0;">
   <td align="center"> <strong style= "font-size: 2em"> FOO Prompting made easy.</strong><p> Master the AI skills to transform your workflows and lead your industry forward. Master the AI skills to transform your workflows and lead your industry forward. Master the AI skills to transform your workflows and lead your industry forward.</td>
-  <td><img src="./assets/medium.png"></td>
+  <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
  </tr>
 </table>
 

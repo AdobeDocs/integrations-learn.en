@@ -67,6 +67,7 @@ hidefromtoc: true
 <table>
  <tr style= "border: 0;">
   <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td> 
+  <td>><img src="https://video.tv.adobe.com/v/3434938?autoplay=true&end=replay"></td>
   <td> <strong style= "font-size: 2em">Put your learnings into practice</strong><p> Become a Generative AI leader. Master the AI skills to transform your workflows and lead your industry forward. <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Take me there</span></a><td>
  </tr>
 </table>

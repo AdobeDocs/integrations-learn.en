@@ -8,7 +8,7 @@ hidefromtoc: true
 
 <table>
  <tr style= "border: 0;">
-  <td> <strong>Become a Generative AI leader.</strong><p> Become a Generative AI leader. Master the AI skills to transform your workflows and lead your industry forward. <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Register</span></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp   <a href="https://genstudioacademy.adobelearningmanager.com/" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Login</span></a></td>
+  <td> <strong style= "font-size: 2em">Become a Generative AI leader.</strong><p> Become a Generative AI leader. Master the AI skills to transform your workflows and lead your industry forward. <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Register</span></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp   <a href="https://genstudioacademy.adobelearningmanager.com/" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Login</span></a></td>
   <td><img src="./assets/medium.png"></td>
  </tr>
 </table>
@@ -16,7 +16,7 @@ hidefromtoc: true
 <table>
  <tr style= "border: 0;">
   <td align="center">
-    <strong> Master Generative AI. Transform your workflows.</strong>
+    <strong style= "font-size: 2em"> Master Generative AI. Transform your workflows.</strong>
   </td>
  </tr>
  <tr style= "border: 0;">
@@ -39,7 +39,7 @@ hidefromtoc: true
 
 <table>
  <tr style= "border: 0;">
-  <td align="center"> <strong>Prompting made easy.</strong><p> Master the AI skills to transform your workflows and lead your industry forward. Master the AI skills to transform your workflows and lead your industry forward. Master the AI skills to transform your workflows and lead your industry forward.</td>
+  <td align="center"> <strong style= "font-size: 2em">Prompting made easy.</strong><p> Master the AI skills to transform your workflows and lead your industry forward. Master the AI skills to transform your workflows and lead your industry forward. Master the AI skills to transform your workflows and lead your industry forward.</td>
   <td><img src="./assets/medium.png"></td>
  </tr>
 </table>
@@ -47,13 +47,13 @@ hidefromtoc: true
 <table>
  <tr style= "border: 0;">
   <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td> 
-  <td> <strong>Breaking down Generative AI for marketing.</strong><p> Become a Generative AI leader. Master the AI skills to transform your workflows and lead your industry forward. <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Register</span></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp   <a href="https://genstudioacademy.adobelearningmanager.com/" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Login</span></a><td>
+  <td> <strong style= "font-size: 2em">Breaking down Generative AI for marketing.</strong><p> Become a Generative AI leader. Master the AI skills to transform your workflows and lead your industry forward. <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Register</span></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp   <a href="https://genstudioacademy.adobelearningmanager.com/" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Login</span></a><td>
  </tr>
 </table>
 
 <table>
  <tr style= "border: 0;colspan: 2;">
-  <td> <strong>Coming soon to Genstudio Academy</strong></td>
+  <td> <strong style= "font-size: 2em">Coming soon to Genstudio Academy</strong></td>
  </tr> 
  <tr> 
     <td align="left"><img src="./assets/small.png"></td>
@@ -69,7 +69,7 @@ https://video.tv.adobe.com/v/26061?format=jpeg
 <table>
  <tr style= "border: 0;">
   <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td> 
-  <td> <strong>Put your learnings into practice</strong><p> Become a Generative AI leader. Master the AI skills to transform your workflows and lead your industry forward. <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Take me there</span></a><td>
+  <td> <strong style= "font-size: 2em">Put your learnings into practice</strong><p> Become a Generative AI leader. Master the AI skills to transform your workflows and lead your industry forward. <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Take me there</span></a><td>
  </tr>
 </table>
 
@@ -85,7 +85,7 @@ https://video.tv.adobe.com/v/26061?format=jpeg
 <table>
  <tr style= "border: 0;">
   <td><img src="./assets/medium.png"></td>
-  <td align="center"> <strong>Image left / Text right</strong><p> Bacon ipsum dolor amet tri-tip buffalo kevin landjaeger beef ribs pork loin, brisket doner sirloin. Buffalo pig sausage, leberkas sirloin ham meatball t-bone tenderloin. Jerky kevin landjaeger prosciutto, cupim capicola boudin. <p><a href="https://business.adobe.com/products/genstudio.htmlL" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Explore Now</span></a></td>
+  <td align="center"> <strong style= "font-size: 2em">Image left / Text right</strong><p> Bacon ipsum dolor amet tri-tip buffalo kevin landjaeger beef ribs pork loin, brisket doner sirloin. Buffalo pig sausage, leberkas sirloin ham meatball t-bone tenderloin. Jerky kevin landjaeger prosciutto, cupim capicola boudin. <p><a href="https://business.adobe.com/products/genstudio.htmlL" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Explore Now</span></a></td>
  </tr>
 </table>
 
@@ -93,7 +93,7 @@ https://video.tv.adobe.com/v/26061?format=jpeg
 
 <table>
  <tr style= "border: 0;colspan: 2;">
-  <td> <strong>Coming soon to Genstudio Academy</strong></td>
+  <td> <strong style= "font-size: 2em">Coming soon to Genstudio Academy</strong></td>
  </tr> 
  <tr> 
     <td align="left"><img src="./assets/small.png"></td>
@@ -106,7 +106,7 @@ https://video.tv.adobe.com/v/26061?format=jpeg
 
 <table>
  <tr style= "border: 0;">
-  <td> <strong>Adobe GenStudio Academy</strong><p> Become a Generative AI leader. Master the AI skills to transform your workflows and lead your industry forward. <p><a href="https://business.adobe.com/products/genstudio.htmlL" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Register</span></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp   <a href="https://business.adobe.com/products/genstudio.htmlL" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Login</span></a></td>
+  <td> <strong style= "font-size: 2em">Adobe GenStudio Academy</strong><p> Become a Generative AI leader. Master the AI skills to transform your workflows and lead your industry forward. <p><a href="https://business.adobe.com/products/genstudio.htmlL" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Register</span></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp   <a href="https://business.adobe.com/products/genstudio.htmlL" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Login</span></a></td>
   <td><img src="./assets/medium.png"></td>
  </tr>
 </table>

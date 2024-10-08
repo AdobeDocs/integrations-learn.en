@@ -33,7 +33,7 @@ hidefromtoc: true
  </tr>
 </table>
 
-[!BEGINSHADEBOX]
+>[!BEGINSHADEBOX]
 
 <table>
  <tr style= "border: 0;">
@@ -42,4 +42,4 @@ hidefromtoc: true
  </tr>
 </table>
 
-[!ENDSHADEBOX]
+>[!ENDSHADEBOX]

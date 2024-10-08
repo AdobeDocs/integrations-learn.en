@@ -41,8 +41,8 @@ hidefromtoc: true
 
 
 <table>
- <tr style= "border: 0;colspan: 2;">
-  <td> <strong style= "font-size: 2em">Coming soon to Genstudio Academy</strong></td>
+ <tr style= "border: 0;">
+  <td> <strong style= "font-size: 2em;colspan: 2;">Coming soon to Genstudio Academy</strong></td>
  </tr> 
  <tr style= "border: 0;colspan: 2;"> 
     <td align="left"><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>

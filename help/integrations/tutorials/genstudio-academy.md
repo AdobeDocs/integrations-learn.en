@@ -41,15 +41,14 @@ hidefromtoc: true
 
 
 <table>
- <!-- <tr style= "border: 0;colspan: 3;">
+ <tr style= "border: 0;colspan: 3;">
   <td colspan=3> <strong style= "font-size: 2em;">Coming soon to Genstudio Academy</strong></td>
- </tr> --> 
+ </tr> 
  <tr style= "border: 0;colspan: 3;"> 
    <td>
       <img src="https://video.tv.adobe.com/v/3434938?format=jpeg">
       <div>
-      <a href="https://www.adobe.com"><strong>Tips and Tricks </strong>
-      </a>
+      <strong>Tips and Tricks </strong>
       </div>
       <p>
       Tips and tricks for using GenStudio for Performance Marketing in the most efficient way.
@@ -58,8 +57,7 @@ hidefromtoc: true
    <td>
       <img src="https://video.tv.adobe.com/v/3434938?format=jpeg">
       <div>
-      <a href="https://www.adobe.com"><strong>Expert courses</strong>
-      </a>
+      <strong>Expert courses</strong>
       </div>
       <p>
       Advanced courses to unlock expert level AI skills in marketing.
@@ -74,7 +72,7 @@ hidefromtoc: true
     <tr></tr>
  <tr style= "border: 0;">
  <td><img src="./assets/put-your-learnings-into-practice.png"></td>
-  <td> <strong style= "font-size: 2em">Put your learnings into practice</strong><p>Explore GenStudio for Performance Marketing a generative AI-first application that lets marketing teams create their own ads and emails to drive impactful, personalized marketing campaigns.<p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Take me there</span></a></td>
+  <td> <strong style= "font-size: 2em">Put your learnings into practice</strong><p>Explore GenStudio for Performance Marketing a generative AI-first application that lets marketing teams create their own ads and emails to drive impactful, personalized marketing campaigns.<p><a href="https://business.adobe.com" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Take me there</span></a></td>
  </tr>
     <tr></tr>
 </table>

@@ -9,7 +9,7 @@ hidefromtoc: true
 <table>
  <tr style= "border: 0;">
   <td> <strong style= "font-size: 2em">Elevate your generative AI knowledge.  </strong><p>Master the generative AI skills to transform your creative and marketing workflows. <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Register</span></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp   <a href="https://genstudioacademy.adobelearningmanager.com/" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Login</span></a></td>
-  <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
+  <td><img src="./assets/elevate-your-generative-ai-knowledge.png"></td>
  </tr>
 </table>
 
@@ -35,7 +35,7 @@ hidefromtoc: true
 <table>
  <tr style= "border: 0;">
   <td align="center"> <strong style= "font-size: 2em">Levels of learning. Boundless opportunity unlocked.</strong><p>With GenStudio Academy’s mastery levels, it’s simple to find content that boosts your generative AI skills—whether you’re learning about LLMs, mastering prompt creation, or seeing AI tools in action. GenStudio Academy has something for everyone.</td>
-  <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
+  <td><img src="./assets/levels-of-learning.png"></td>
  </tr>
 </table>
 

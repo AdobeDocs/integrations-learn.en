@@ -40,7 +40,7 @@ hidefromtoc: true
 </table>
 
 
-<table>
+<table align=center>
  <tr style= "border: 0;colspan: 3;">
   <td colspan=3> <strong style= "font-size: 2em;">Coming soon</strong></td>
  </tr> 

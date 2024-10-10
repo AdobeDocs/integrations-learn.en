@@ -45,8 +45,26 @@ hidefromtoc: true
   <td colspan=3> <strong style= "font-size: 2em;">Coming soon to Genstudio Academy</strong></td>
  </tr> --> 
  <tr style= "border: 0;colspan: 3;"> 
-    <td align="left"><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"><p>Tips and tricks for using GenStudio for Performance Marketing in the most efficient way. </td>
-    <td align="right"><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"><p>Advanced courses to unlock expert level AI skills in marketing. </td>
+   <td>
+      <img src="https://video.tv.adobe.com/v/3434938?format=jpeg">
+      <div>
+      <a href="www.adobe.com"><strong>Tips and Tricks </strong>
+      </a>
+      </div>
+      <p>
+      Tips and tricks for using GenStudio for Performance Marketing in the most efficient way.
+      </p>
+   </td>
+   <td>
+      <img src="https://video.tv.adobe.com/v/3434938?format=jpeg">
+      <div>
+      <a href="www.adobe.com"><strong>Expert courses</strong>
+      </a>
+      </div>
+      <p>
+      Advanced courses to unlock expert level AI skills in marketing.
+      </p>
+   </td>
  </tr>
 </table>
 

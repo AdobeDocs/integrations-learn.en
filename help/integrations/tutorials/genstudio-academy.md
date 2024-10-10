@@ -72,7 +72,7 @@ hidefromtoc: true
     <tr></tr>
  <tr style= "border: 0;">
  <td><img src="./assets/put-your-learnings-into-practice.png"></td>
-  <td> <strong style= "font-size: 2em">Put your learnings into practice</strong><p>Explore GenStudio for Performance Marketing a generative AI-first application that lets marketing teams create their own ads and emails to drive impactful, personalized marketing campaigns.<p><a href="https://business.adobe.com" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Take me there</span></a></td>
+  <td> <strong style= "font-size: 2em">Put your learnings into practice</strong><p>Explore GenStudio for Performance Marketing a generative AI-first application that lets marketing teams create their own ads and emails to drive impactful, personalized marketing campaigns.<p><a href="https://business.adobe.com/products/genstudio-for-performance-marketing.html" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Take me there</span></a></td>
  </tr>
     <tr></tr>
 </table>

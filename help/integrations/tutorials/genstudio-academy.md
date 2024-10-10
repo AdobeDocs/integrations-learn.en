@@ -48,7 +48,7 @@ hidefromtoc: true
    <td>
       <img src="https://video.tv.adobe.com/v/3434938?format=jpeg">
       <div>
-      <a href="www.adobe.com"><strong>Tips and Tricks </strong>
+      <a href="https://www.adobe.com"><strong>Tips and Tricks </strong>
       </a>
       </div>
       <p>
@@ -58,7 +58,7 @@ hidefromtoc: true
    <td>
       <img src="https://video.tv.adobe.com/v/3434938?format=jpeg">
       <div>
-      <a href="www.adobe.com"><strong>Expert courses</strong>
+      <a href="https://www.adobe.com"><strong>Expert courses</strong>
       </a>
       </div>
       <p>

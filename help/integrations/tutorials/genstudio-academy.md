@@ -42,10 +42,10 @@ hidefromtoc: true
 
 <table>
  <tr style= "border: 0;colspan: 3;">
-  <td colspan=3> <strong style= "font-size: 2em;">Coming soon to Genstudio Academy</strong></td>
+  <td colspan=3> <strong style= "font-size: 2em;">Coming soon</strong></td>
  </tr> 
  <tr style= "border: 0;colspan: 3;"> 
-   <td>
+   <td align=Left>
       <img src="https://video.tv.adobe.com/v/3434938?format=jpeg">
       <div>
       <strong>Tips and Tricks </strong>
@@ -54,7 +54,7 @@ hidefromtoc: true
       Tips and tricks for using GenStudio for Performance Marketing in the most efficient way.
       </p>
    </td>
-   <td>
+   <td align=Right>
       <img src="https://video.tv.adobe.com/v/3434938?format=jpeg">
       <div>
       <strong>Expert courses</strong>

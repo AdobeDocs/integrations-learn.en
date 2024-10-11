@@ -60,7 +60,7 @@ hidefromtoc: true
       <strong>Social learning</strong>
       </div>
       <p>
-      Learn from your peers and knowledge
+      Learn from your peers and knowledge share easily across your organization.
       </p>
    </td>
    <td align=Center>

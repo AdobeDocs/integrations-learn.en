@@ -48,7 +48,7 @@ hidefromtoc: true
    <td align=Center>
       <img src="./assets/tips-and-tricks.png">
       <div>
-      <strong>Tips and Tricks </strong>
+      <strong>Tips and tricks </strong>
       </div>
       <p>
       Tips and tricks for using GenStudio for Performance Marketing in the most efficient way.
@@ -81,60 +81,9 @@ hidefromtoc: true
     <tr></tr>
  <tr style= "border: 0;">
  <td><img src="./assets/put-your-learnings-into-practice.png"></td>
-  <td> <strong style= "font-size: 2em">Put your learnings into practice</strong><p>Explore GenStudio for Performance Marketing a generative AI-first application that lets marketing teams create their own ads and emails to drive impactful, personalized marketing campaigns.<p><a href="https://business.adobe.com/products/genstudio-for-performance-marketing.html" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Take me there</span></a></td>
+  <td> <strong style= "font-size: 2em">Put your learnings into practice.</strong><p>Explore GenStudio for Performance Marketing a generative AI-first application that lets marketing teams create their own ads and emails to drive impactful, personalized marketing campaigns.<p><a href="https://business.adobe.com/products/genstudio-for-performance-marketing.html" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Take me there</span></a></td>
  </tr>
     <tr></tr>
 </table>
 
 >[!ENDSHADEBOX]
-
-<!--
-## Heading 2 SHADEBOXES
-
-
-
-<table>
- <tr style= "border: 0;">
-  <td><img src="./assets/medium.png"></td>
-  <td align="center"> <strong style= "font-size: 2em">Image left / Text right</strong><p> Bacon ipsum dolor amet tri-tip buffalo kevin landjaeger beef ribs pork loin, brisket doner sirloin. Buffalo pig sausage, leberkas sirloin ham meatball t-bone tenderloin. Jerky kevin landjaeger prosciutto, cupim capicola boudin. <p><a href="https://business.adobe.com/products/genstudio.htmlL" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Explore Now</span></a></td>
- </tr>
-</table>
-
-
-
-<table>
- <tr style= "border: 0;colspan: 2;">
-  <td> <strong style= "font-size: 2em">Coming soon to Genstudio Academy</strong></td>
- </tr> 
- <tr> 
-    <td align="left"><img src="./assets/small.png"></td>
-    <td align="center"><img src="./assets/small.png"></td>
-    <td align="right"><img src="./assets/small.png"></td>
- </tr>
-</table>
-
->[!BEGINSHADEBOX]
-
-<table>
- <tr style= "border: 0;">
-  <td> <strong style= "font-size: 2em">Adobe GenStudio Academy</strong><p> Become a Generative AI leader. Master the AI skills to transform your workflows and lead your industry forward. <p><a href="https://business.adobe.com/products/genstudio.htmlL" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Register</span></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp   <a href="https://business.adobe.com/products/genstudio.htmlL" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Login</span></a></td>
-  <td><img src="./assets/medium.png"></td>
- </tr>
-</table>
-
->[!ENDSHADEBOX]
-
-### Coming soon to Genstudio Academy
-
-<table>
- <tr> 
-    <td align="left"><img src="./assets/small.png"></td>
-    <td align="center"><img src="./assets/small.png"></td>
-    <td align="right"><img src="./assets/small.png"></td>
- </tr>
-</table>
-
-
-
-
--->

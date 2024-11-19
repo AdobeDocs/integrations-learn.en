@@ -96,3 +96,9 @@ mini-toc-levels: 1
     + [Real-Time CDP and [!DNL Target]](./tutorials/rtcdp-target/web-sdk-and-target-destination.md)
     + [Real-Time CDP and [!DNL Target]](./tutorials/rtcdp-target/mobile-sdk-and-target-destination.md)
     + [Real-Time CDP and [!DNL Target]](./tutorials/rtcdp-target/atjs-and-target-destination.md)
+  + GenStudio for Performance Marketing and Experience Manager {#genstudio-for-performance-marketing-experience-manager}
+     + [Overview](./tutorials/aem-genstudio-for-performance-marketing/overview.md)
+     + [Set up](./tutorials/aem-genstudio-for-performance-marketing/setup.md)
+     + [Integration walk-through](./tutorials/aem-genstudio-for-performance-marketing/integration-walk-through.md)
+     + [Use case #1](./tutorials/aem-genstudio-for-performance-marketing/use-case-1.md)
+     + [Use case #2](./tutorials/aem-genstudio-for-performance-marketing/use-case-2.md)

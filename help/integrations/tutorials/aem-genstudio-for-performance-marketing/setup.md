@@ -3,9 +3,8 @@ title: Set up Adobe GenStudio using AEM Assets and GenStudio for Performance Mar
 description: Learn how to set up the integration between AEM Assets with GenStudio for Performance Marketing.
 solution: Experience Manager, GenStudio for Performance Marketing
 version: Cloud Service
-feature-site: Experience Manager Assets, GenStudio for Performance Marketing
-feature: ??? - select one or more from: https://adobe.ly/3JfnRW9
-topic: ??? - select 0 or more from: https://adobe.ly/3NRHfMp
+feature-set: Experience Manager Assets, GenStudio for Performance Marketing
+topic: Content Supply Chain
 role: User
 level: Intermediate
 doc-type: Feature Video
@@ -16,7 +15,7 @@ jira: KT-16484
 
 # Set up
 
-To get started with Adobe GenStudio using AEM Assets and GenStudio for Performance Marketing, both applications need to be properly configured. The setup process involves several steps that must be completed before you can fully integrate Adobe GenStudio with AEM Assets and GenStudio for Performance Marketing.
+To get started with Adobe GenStudio using AEM Assets as a Cloud Service and GenStudio for Performance Marketing, both applications need to be properly configured. The setup process involves several steps that must be completed before you can fully integrate Adobe GenStudio with AEM Assets and GenStudio for Performance Marketing.
 
 These tasks will require collaboration with administrators who have the appropriate permissions to manage both systems.
 

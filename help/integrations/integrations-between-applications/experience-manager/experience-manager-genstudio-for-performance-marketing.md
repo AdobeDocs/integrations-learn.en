@@ -12,6 +12,7 @@ thumbnail: experience-manager-genstudio-for-performance-marketing.png
 badgeIntegration: label="Integration" type="positive"
 last-substantial-update: 2024-11-19
 hidefromtoc: true
+exl-id: 31e108d9-3c3d-48ff-94ff-5a9c7c3ca4b0
 ---
 # Integrate Experience Manager with GenStudio for Performance Marketing
 

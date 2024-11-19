@@ -11,8 +11,8 @@ doc-type: Value Video
 duration: 133
 last-substantial-update: 2024-11-19
 jira: KT-16480
+exl-id: 091852ef-cce4-40dd-97bf-f0deee2c99c3
 ---
-
 # Adobe GenStudio using AEM Assets and GenStudio for Performance Marketing
 
 >[!VIDEO](https://video.tv.adobe.com/v/3439263/?learn=on)
@@ -144,4 +144,3 @@ Explore practical use cases that demonstrate how this integration enhances your 
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-

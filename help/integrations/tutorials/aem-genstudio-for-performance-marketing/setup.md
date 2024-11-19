@@ -11,8 +11,8 @@ doc-type: Feature Video
 duration: 416
 last-substantial-update: 2024-11-19
 jira: KT-16484
+exl-id: b63cfe6e-a530-4ca4-9e8e-16c54478054f
 ---
-
 # Set up
 
 [‹ Back to integration overview](./overview.md)
@@ -105,4 +105,3 @@ These tasks will require collaboration with administrators who have the appropri
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-

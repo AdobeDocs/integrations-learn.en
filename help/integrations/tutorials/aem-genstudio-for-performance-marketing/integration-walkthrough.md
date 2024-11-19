@@ -11,8 +11,8 @@ doc-type: Feature Video
 duration: 296
 last-substantial-update: 2024-11-19
 jira: KT-16482
+exl-id: 42185429-16ee-42df-bce4-d6d97f13b166
 ---
-
 # Integration walkthrough
 
 [‹ Back to integration overview](./overview.md)

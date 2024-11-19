@@ -36,7 +36,11 @@ Integrating Adobe GenStudio for Performance Marketing and Experience Manager Ass
             <td>
                 <ul style="margin-top: 0;">
                     <li>Upload, review and approve brand assets.</li>
+<<<<<<< HEAD
                     <li>Create image variants of approved brand assets for use in marketing experiences.</li>
+=======
+                    <li>Create image variants of approved brand assets for use in marketing experiences.</li><
+>>>>>>> edde4b8b98a1e8b7eaff592f458cfaa9aa53b346
                 </ul>
             </td>
         </tr>        

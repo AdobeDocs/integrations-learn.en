@@ -27,6 +27,7 @@ These tasks will require collaboration with administrators who have the appropri
    {title=Enable AEM Assets Content Hub}
 * https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/get-started
    {title=Set up GenStudio for Performance Marketing}
+<<<<<<< HEAD
    {image=https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/media_1dd8829962c9e37e1251f3d2d92f5d72c8a58cdaf.png?width=2000&format=webply&optimize=medium}
 
 -->
@@ -104,3 +105,7 @@ These tasks will require collaboration with administrators who have the appropri
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
+=======
+
+-->
+>>>>>>> edde4b8b98a1e8b7eaff592f458cfaa9aa53b346

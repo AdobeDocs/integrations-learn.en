@@ -17,9 +17,7 @@ jira: KT-16480
 
 >[!VIDEO](https://video.tv.adobe.com/v/3439263/?learn=on)
 
-
 Unlock the power of Adobe GenStudio and AEM Assets as a Cloud Service to transform your performance marketing workflows. With seamless integration, access brand-approved assets from a centralized repository to create consistent, high-quality content for every campaign and channel. Discover how these tools streamline your content supply chain and elevate your marketing impact.
-
 
 ## Walkthroughs
 

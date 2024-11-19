@@ -9,7 +9,7 @@ role: User
 level: Intermediate
 doc-type: Feature Video
 duration: 295
-last-substantial-update: 2024-11-19
+last-substantial-update: 2024-11-20
 jira: KT-16483
 ---
 

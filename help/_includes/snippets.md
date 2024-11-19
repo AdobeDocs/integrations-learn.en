@@ -41,7 +41,7 @@ Adobe Experience Manager Forms is a component of Adobe Experience Manager, desig
 Adobe Experience [!DNL Platform] is the most powerful, flexible, and open system on the market for building and managing complete solutions that drive customer experience. Experience [!DNL Platform] enables organizations to centralize and standardize customer data and content from any system and apply data science and machine learning to dramatically improve the design and delivery of rich, personalized experiences.
 
 
-## GenStudio for Performance Marketing description {#experience-platform-description}
+## GenStudio for Performance Marketing description {#genstudio-for-performance-marketing-description}
 
 Adobe GenStudio for Performance Marketing is a powerful application that streamlines content creation and management by integrating brand-approved assets, enabling marketers to deliver personalized, consistent content across all channels at scale, driving better campaign performance.
 

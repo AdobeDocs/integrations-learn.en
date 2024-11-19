@@ -20,7 +20,7 @@ Meeting real-time customer expectations for personalized experiences requires mo
   </thead>
   <tbody>
 <tr>
-  <td><strong>Create marketing collateral using brand assets</strong><br/></td>
+  <td rowspan="2"><strong>Create marketing collateral using brand assets</strong><br/></td>
   <td>Build and oversee email marketing content and templates using AEM and Adobe [!DNL Campaign].</td>
   <td>
     <ul>
@@ -28,6 +28,16 @@ Meeting real-time customer expectations for personalized experiences requires mo
     </ul>    
   </td>
   <td><a href="../integrations-between-applications/experience-manager/experience-manager-campaign.md">[!DNL Campaign] and AEM</a></td>
+</tr>
+<tr>
+  <td>Create on-brand, personalized marketing experiences.</td>
+  <td>
+    <ul>
+      <li>Send marketing emails created in GenStudio for Performance Marketing with on-brand images from AEM Assets.</li>
+      <li>Create on-brand Meta ads in GenStudio for Performance Marketing using on-brand images from AEM Assets.</li>
+    </ul>    
+  </td>
+  <td><a href="../integrations-between-applications/experience-manager/experience-manager-genstudio-for-performance-marketing.md">GenStudio for Performance Marketing and AEM</a></td>
 </tr>
 <tr>
   <td rowspan="3"><strong>Manage asset creation</strong><br/></td>

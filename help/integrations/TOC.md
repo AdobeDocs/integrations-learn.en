@@ -50,6 +50,7 @@ mini-toc-levels: 1
     + [[!DNL Analytics]](./integrations-between-applications/experience-manager/experience-manager-analytics.md)
     + [[!DNL Campaign]](./integrations-between-applications/experience-manager/experience-manager-campaign.md)
     + [[!DNL Commerce]](./integrations-between-applications/experience-manager/experience-manager-commerce.md)
+    + [GenStudio for Performance Marketing](./integrations-between-applications/experience-manager/experience-manager-genstudio-for-performance-marketing.md)
     + [[!DNL Journey Optimizer]](./integrations-between-applications/experience-manager/experience-manager-journey-optimizer.md)
     + [[!DNL Marketo Engage]](./integrations-between-applications/experience-manager/experience-manager-marketo.md)
     + [[!DNL Target]](./integrations-between-applications/experience-manager/experience-manager-target.md)
@@ -95,3 +96,9 @@ mini-toc-levels: 1
     + [Real-Time CDP and [!DNL Target]](./tutorials/rtcdp-target/web-sdk-and-target-destination.md)
     + [Real-Time CDP and [!DNL Target]](./tutorials/rtcdp-target/mobile-sdk-and-target-destination.md)
     + [Real-Time CDP and [!DNL Target]](./tutorials/rtcdp-target/atjs-and-target-destination.md)
+  + GenStudio for Performance Marketing and Experience Manager {#genstudio-for-performance-marketing-experience-manager}
+     + [Overview](./tutorials/aem-genstudio-for-performance-marketing/overview.md)
+     + [Set up](./tutorials/aem-genstudio-for-performance-marketing/setup.md)
+     + [Integration walk-through](./tutorials/aem-genstudio-for-performance-marketing/integration-walk-through.md)
+     + [Use case #1](./tutorials/aem-genstudio-for-performance-marketing/use-case-1.md)
+     + [Use case #2](./tutorials/aem-genstudio-for-performance-marketing/use-case-2.md)

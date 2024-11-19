@@ -15,6 +15,8 @@ jira: KT-16483
 
 # Lightweight review and approval in Adobe GenStudio
 
+[‹ Back to integration overview](./overview.md)
+
 Learn how to upload, review, and approve assets in AEM Assets as a Cloud Service to streamline your content workflow. Once approved, these assets seamlessly integrate into GenStudio for Performance Marketing, ensuring easy access to brand-approved materials for your campaigns.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3439265/?learn=on)

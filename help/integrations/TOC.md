@@ -50,6 +50,7 @@ mini-toc-levels: 1
     + [[!DNL Analytics]](./integrations-between-applications/experience-manager/experience-manager-analytics.md)
     + [[!DNL Campaign]](./integrations-between-applications/experience-manager/experience-manager-campaign.md)
     + [[!DNL Commerce]](./integrations-between-applications/experience-manager/experience-manager-commerce.md)
+    + [GenStudio for Performance Marketing](./integrations-between-applications/experience-manager/experience-manager-genstudio-for-performance-marketing.md)
     + [[!DNL Journey Optimizer]](./integrations-between-applications/experience-manager/experience-manager-journey-optimizer.md)
     + [[!DNL Marketo Engage]](./integrations-between-applications/experience-manager/experience-manager-marketo.md)
     + [[!DNL Target]](./integrations-between-applications/experience-manager/experience-manager-target.md)

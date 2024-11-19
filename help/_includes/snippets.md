@@ -40,6 +40,11 @@ Adobe Experience Manager Forms is a component of Adobe Experience Manager, desig
 
 Adobe Experience [!DNL Platform] is the most powerful, flexible, and open system on the market for building and managing complete solutions that drive customer experience. Experience [!DNL Platform] enables organizations to centralize and standardize customer data and content from any system and apply data science and machine learning to dramatically improve the design and delivery of rich, personalized experiences.
 
+
+## GenStudio for Performance Marketing description {#experience-platform-description}
+
+Adobe GenStudio for Performance Marketing is a powerful application that streamlines content creation and management by integrating brand-approved assets, enabling marketers to deliver personalized, consistent content across all channels at scale, driving better campaign performance.
+
 ## Journey Optimizer description {#journey-optimizer-description}
 
 Adobe Journey Optimizer helps companies deliver connected, contextual, and personalized experiences to their customers. The customer journey is the entire process of a customer's interactions with the brand. Journey Optimizer allows brands to intelligently determine the next best interaction with scale, speed, and flexibility across the entire customer journey. With Adobe Journey Optimizer, companies can create and deliver both scheduled marketing campaigns (such as weekly promotions for a retail store) and tailored individual communications (like a push notification for an item that a loyalty app customer may have looked at that was previously out of stock) within the same application.

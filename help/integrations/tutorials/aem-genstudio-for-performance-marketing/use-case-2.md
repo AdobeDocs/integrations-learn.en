@@ -11,8 +11,8 @@ doc-type: Feature Video
 duration: 416
 last-substantial-update: 2024-11-20
 jira: KT-16484
+exl-id: 338762f2-179a-47ab-8ca8-d22921a0354d
 ---
-
 # Create variants with Adobe GenStudio
 
 [‹ Back to integration overview](./overview.md)

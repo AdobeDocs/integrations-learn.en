@@ -7,7 +7,7 @@ feature-set: Experience Manager Assets, GenStudio for Performance Marketing
 topic: Content Supply Chain
 role: User
 level: Intermediate
-doc-type: Feature Video
+doc-type: Article
 duration: 416
 last-substantial-update: 2024-11-19
 jira: KT-16484

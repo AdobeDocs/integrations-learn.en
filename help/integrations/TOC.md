@@ -100,5 +100,6 @@ mini-toc-levels: 1
      + [Overview](./tutorials/aem-genstudio-for-performance-marketing/overview.md)
      + [Set up](./tutorials/aem-genstudio-for-performance-marketing/setup.md)
      + [Integration walkthrough](./tutorials/aem-genstudio-for-performance-marketing/integration-walkthrough.md)
-     + [Review and approval in Adobe GenStudio](./tutorials/aem-genstudio-for-performance-marketing/use-case-1.md)
-     + [Create variants with Adobe GenStudio](./tutorials/aem-genstudio-for-performance-marketing/use-case-2.md)
+     + Use cases{#use-cases}
+       + [Review and approval in Adobe GenStudio](./tutorials/aem-genstudio-for-performance-marketing/use-case-1.md)
+       + [Create variants with Adobe GenStudio](./tutorials/aem-genstudio-for-performance-marketing/use-case-2.md)

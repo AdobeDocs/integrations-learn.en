@@ -149,11 +149,6 @@ Explore practical use cases that demonstrate how this integration enhances your 
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-* https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-cases/use-case-1
-* https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-cases/use-case-2
-
--->
-
 
 <br/>
 <br/>

@@ -25,7 +25,7 @@ To begin using Adobe GenStudio with AEM Assets as a Cloud Service and GenStudio 
 
 There are no additional setups required to integrate these products beyond ensuring they are available, and set up and accessible to your user.
 
-## Set up guides
+## Setup guides
 
 If these Adobe products are not yet set up and enabled, consult the following guides for detailed configuration steps:
 

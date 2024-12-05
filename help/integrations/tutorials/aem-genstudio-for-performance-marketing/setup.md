@@ -15,7 +15,7 @@ exl-id: b63cfe6e-a530-4ca4-9e8e-16c54478054f
 ---
 # Set up GenStudio for Performance Marketing and AEM Assets
 
-[‹ Back to integration overview](./overview.md)
+[‹ Back to AEM Asset and GenStudio for Performance Marketing overview](./overview.md)
 
 To begin using Adobe GenStudio with AEM Assets as a Cloud Service and GenStudio for Performance Marketing, ensure the necessary products are provisioned, enabled, and configured. Specifically, you need access to:
 

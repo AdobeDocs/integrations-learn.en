@@ -22,4 +22,4 @@ exl-id: 338762f2-179a-47ab-8ca8-d22921a0354d
 
 Discover how AEM Assets as a Cloud Service and Adobe Express work together with GenStudio for Performance Marketing to quickly create tailored asset variations for cohesive marketing campaigns. Easily generate and adapt visuals for email promotions and Meta ads, ensuring consistency while targeting diverse audiences for the same marketing experience.
 
->[!VIDEO](https://video.tv.adobe.com/v/3439266/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439266/?learn=on&enablevpops)

@@ -22,4 +22,4 @@ exl-id: 42185429-16ee-42df-bce4-d6d97f13b166
 
 Learn the basics of using the AEM Assets as a Cloud Service and GenStudio for Performance Marketing integration; uploading assets to AEM Assets, asset approval in AEM Assets, and use of approved assets in GenStudio for Performance Marketing.
 
->[!VIDEO](https://video.tv.adobe.com/v/3439264/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439264/?learn=on&enablevpops)

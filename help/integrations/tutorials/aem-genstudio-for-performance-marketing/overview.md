@@ -22,7 +22,7 @@ exl-id: 091852ef-cce4-40dd-97bf-f0deee2c99c3
 
 Unlock the power of Adobe GenStudio and AEM Assets as a Cloud Service to transform your performance marketing workflows. With seamless integration, access brand-approved assets from a centralized repository to create consistent, high-quality content for every campaign and channel. Discover how these tools streamline your content supply chain and elevate your marketing impact.
 
-## Pre-requisites
+## Prerequisites
 
 The integration between AEM Assets and GenStudio for Performance Marketing requires a foundational understanding of: 
 

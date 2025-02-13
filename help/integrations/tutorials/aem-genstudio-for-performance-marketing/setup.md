@@ -1,6 +1,6 @@
 ---
-title: Set up Adobe GenStudio using GenStudio for Performance Marketing and AEM Assets
-description: Learn how to set up the integration between AEM Assets with GenStudio for Performance Marketing.
+title: Set up GenStudio for Performance Marketing and AEM Assets
+description: Set up Adobe GenStudio with GenStudio for Performance Marketing and AEM Assets to streamline content creation and ensure brand consistency.
 solution: Experience Manager, GenStudio for Performance Marketing
 version: Cloud Service
 feature-set: Experience Manager Assets, GenStudio for Performance Marketing

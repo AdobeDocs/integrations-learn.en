@@ -6,6 +6,7 @@ product: experience cloud
 feature-set: Advertising, [!DNL Analytics], Audience Manager, [!DNL Campaign], [!DNL Commerce], Customer Journey [!DNL Analytics], Experience Cloud Services, Experience Manager, Experience Manager Assets, Experience Manager Cloud Manager, Experience Manager Forms, Experience Manager Guides, Experience Manager Screens, Experience Manager Sites, Experience [!DNL Platform], Journey Optimizer, Journey Orchestration, Marketo Engage, Workfront
 type: Tutorial
 mini-toc-levels: 2
+auto-video-transcripts: true
 git-repo: https://github.com/AdobeDocs/integrations-learn.en
 index: yes
 ---

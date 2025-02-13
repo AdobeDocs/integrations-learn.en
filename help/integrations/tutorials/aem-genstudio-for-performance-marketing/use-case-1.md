@@ -1,6 +1,6 @@
 ---
 title: Lightweight review and approval in Adobe GenStudio
-description: Explore the use case of uploading, reviewing, and approving assets in AEM Assets to make them available for use in GenStudio for Performance Marketing.
+description: Explore how to upload, review, and approve assets in AEM Assets to make them available in GenStudio for Performance Marketing.
 solution: Experience Manager, GenStudio for Performance Marketing
 version: Cloud Service
 feature-set: Experience Manager Assets, GenStudio for Performance Marketing
@@ -18,7 +18,7 @@ exl-id: 635c1a73-4abe-4e22-8755-f3fbc8f0b46e
 ---
 # Lightweight review and approval in Adobe GenStudio
 
-[‹ Back to AEM Asset and GenStudio for Performance Marketing overview](./overview.md)
+[‹ Back to AEM Assets and GenStudio for Performance Marketing overview](./overview.md)
 
 Learn how to upload, review, and approve assets in AEM Assets as a Cloud Service to streamline your content workflow. Once approved, these assets seamlessly integrate into GenStudio for Performance Marketing, ensuring easy access to brand-approved materials for your campaigns.
 

@@ -1,6 +1,6 @@
 ---
 title: AEM Assets and GenStudio for Performance Marketing integration walkthrough
-description: Learn the basics of using the AEM Assets and GenStudio for Performance Marketing integration; uploading assets to AEM Assets, asset approval in AEM Assets, and use of approved assets in GenStudio for Performance Marketing.
+description: Learn how to use AEM Assets and GenStudio for Performance Marketing, from uploading and approving assets in AEM to using assets in GenStudio for Performance Marketing.
 solution: Experience Manager, GenStudio for Performance Marketing
 version: Cloud Service
 feature-set: Experience Manager Assets, GenStudio for Performance Marketing
@@ -16,9 +16,9 @@ hidefromtoc: true
 badgeIntegration: label="AEM Asset and GenStudio for Performance Marketing" type="positive"
 exl-id: 42185429-16ee-42df-bce4-d6d97f13b166
 ---
-# AEM Asset and GenStudio for Performance Marketing walkthrough
+# AEM Assets and GenStudio for Performance Marketing walkthrough
 
-[‹ Back to AEM Asset and GenStudio for Performance Marketing overview](./overview.md)
+[‹ Back to AEM Assets and GenStudio for Performance Marketing overview](./overview.md)
 
 Learn the basics of using the AEM Assets as a Cloud Service and GenStudio for Performance Marketing integration; uploading assets to AEM Assets, asset approval in AEM Assets, and use of approved assets in GenStudio for Performance Marketing.
 

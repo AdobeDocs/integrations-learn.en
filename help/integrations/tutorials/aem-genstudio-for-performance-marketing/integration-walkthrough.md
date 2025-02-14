@@ -12,7 +12,7 @@ duration: 296
 last-substantial-update: 2024-11-19
 jira: KT-16482
 index: yes
-hidefromtoc: true
+hidefromtoc: false
 badgeIntegration: label="AEM Asset and GenStudio for Performance Marketing" type="positive"
 exl-id: 42185429-16ee-42df-bce4-d6d97f13b166
 ---

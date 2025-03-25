@@ -1,8 +1,8 @@
 ---
 title: Using Adobe GenStudio for Performance Marketing and AEM Assets
 description: Unlock Adobe GenStudio to streamline marketing. Access brand-approved assets & create consistent, high-quality content across channels.
-solution: Experience Manager, GenStudio for Performance Marketing
-version: Cloud Service
+solution: Experience Manager, Experience Manager as a Cloud Service, GenStudio for Performance Marketing
+version: Experience Manager as a Cloud Service
 feature-set: Experience Manager Assets, GenStudio for Performance Marketing
 topic: Content Supply Chain
 role: Leader, User

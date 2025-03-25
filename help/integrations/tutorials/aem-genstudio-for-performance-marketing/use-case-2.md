@@ -1,8 +1,8 @@
 ---
 title: Create variants with Adobe GenStudio
 description: Explore how to use AEM Assets and Adobe Express to create asset variations for email and Meta ads, ensuring a cohesive marketing experience.
-solution: Experience Manager, GenStudio for Performance Marketing
-version: Cloud Service
+solution: Experience Manager, Experience Manager as a Cloud Service, GenStudio for Performance Marketing
+version: Experience Manager as a Cloud Service
 feature-set: Experience Manager Assets, GenStudio for Performance Marketing
 topic: Content Supply Chain
 role: User

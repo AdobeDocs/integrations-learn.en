@@ -7,7 +7,7 @@ auto-video-transcripts: true
 
 # Introduction clips {#introductions}
 
-+ Video shorts {#video-shorts}  
++ Video shorts {#video-clips}  
     + Adobe Summit {#summit}
     + 2025 {#2025}
-        + [Playlists](video-shorts/summit/2025/playlists.md)
+        + [Playlists](video-clips/summit/2025/playlists.md)

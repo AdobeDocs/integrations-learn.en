@@ -7,7 +7,6 @@ index: no
 hide: yes
 hidefromtoc: yes
 recommendations: noCatalog, noDisplay
-exl-id: e70cf438-c70d-49e4-a40c-c6e66bdcb8b0
 ---
 # Adobe Summit 2025 Shorts Playlist Intro
 

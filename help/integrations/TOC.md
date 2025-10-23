@@ -103,3 +103,10 @@ mini-toc-levels: 1
     + Use cases{#use-cases}
       + [Review and approval in Adobe GenStudio](./tutorials/aem-genstudio-for-performance-marketing/use-case-1.md)
       + [Create variants with Adobe GenStudio](./tutorials/aem-genstudio-for-performance-marketing/use-case-2.md)
+  + Experience Manager and Target{#experience-manager-target}
+    + [Overview](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/overview)
+    + [Set up](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/setup/integrate-adobe-target)
+    + Use cases{#use-cases}
+      + [Experimentation (A/B Testing)](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/use-cases/experimentation)
+      + [Behavioral Targeting](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/use-cases/behavioral-targeting)
+      + [Known-user Personalization](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/use-cases/known-user-personalization)

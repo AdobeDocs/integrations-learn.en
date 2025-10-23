@@ -199,9 +199,9 @@ Within today's highly competitive and digitally-driven landscape, customers have
       <td>
         <ul style="margin-top: 0;">
           <li>AEM web site personalization.</li>
-          <li>Personalize website content.</li>
-          <li>Optimize user experiences.</li>
           <li>A/B test variations.</li>
+          <li>Behavioral targeting based on user behavior.</li>
+          <li>Known-user personalization by stitching user data from the multiple systems providing a 360-degree view of the customer.</li>
         </ul>
       </td>
       <td>

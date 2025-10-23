@@ -29,6 +29,23 @@ Some benefits of using Adobe Experience Manager and Adobe [!DNL Target] together
     </thead>
     <tbody>
         <tr>
+            <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/overview" target="_blank" rel="noreferrer">AEM Sites and [!DNL Target]</a></td>
+            <td>Experience [!DNL Platform] Web SDK tags extension or alloy.js</td>
+            <td>
+                <ul style="margin-top: 0;">
+                    <li>When you want to personalize AEM web site experiences.</li>
+                    <li>When you need content authors to manage personalized content.</li>
+                </ul>
+            </td>
+            <td>
+              <ul style="margin-top: 0;">
+                <li>A/B testing for AEM Sites content variations.</li>
+                <li>Behavioral targeting for AEM Sites experiences.</li>
+                <li>Known-user personalization for AEM Sites experiences.</li>
+              </ul>
+            </td>
+        </tr>
+        <tr>
             <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/integrations/target.html" target="_blank" rel="noreferrer">AEM Headless as a Cloud Service and [!DNL Target]</a></td>
             <td>Experience [!DNL Platform] Web SDK tags extension or alloy.js</td>
             <td>
@@ -43,23 +60,6 @@ Some benefits of using Adobe Experience Manager and Adobe [!DNL Target] together
                   <li>A/B testing on headless AEM-driven user experiences.</li>
                   <li>Real-time optimization of headless AEM content variants.</li>
                 </ul>
-            </td>
-        </tr>
-        <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/target/overview.html" target="_blank" rel="noreferrer">AEM Sites and [!DNL Target]</a></td>
-            <td>Native connector</td>
-            <td>
-                <ul style="margin-top: 0;">
-                    <li>When you want to personalize AEM web site experiences.</li>
-                    <li>When you need content authors to manage personalized content.</li>
-                </ul>
-            </td>
-            <td>
-              <ul style="margin-top: 0;">
-                <li>A/B testing for AEM Sites content variations.</li>
-                <li>[!DNL Target]ed personalization of AEM Sites experiences.</li>
-                <li>Optimizing AEM Sites with real-time data from Adobe [!DNL Target].</li>
-              </ul>
             </td>
         </tr>
     </tbody>          

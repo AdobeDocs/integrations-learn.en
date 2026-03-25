@@ -35,7 +35,8 @@ Before diving into the setup and workflows, ensure you have the necessary access
 
 Explore two comprehensive walkthroughs designed for users with a foundational understanding of AEM Assets and GenStudio for Performance Marketing. The first walkthrough guides you through the setup process, covering everything needed to seamlessly integrate Adobe GenStudio with AEM Assets as a Cloud Service. The second dives into key workflows, showcasing the major motions for leveraging the integration to effectively create, manage, and distribute performance marketing content.
 
-<!-- CARDS 
+<!--
+CARDS 
 
 * https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/setup
     {title=Set up GenStudio for Performance Marketing and AEM Assets}
@@ -101,7 +102,8 @@ Explore two comprehensive walkthroughs designed for users with a foundational un
 
 Explore practical use cases designed for users with a foundational understanding of AEM Assets and GenStudio for Performance Marketing. These examples demonstrate how this integration enhances your workflows—simplifying asset approval processes, creating and utilizing customized content variants, and showcasing how AEM Assets as a Cloud Service and GenStudio for Performance Marketing work together to power efficient and consistent performance marketing campaigns.
 
-<!-- CARDS 
+<!--
+CARDS 
 
 * https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-cases/use-case-1
 * https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-cases/use-case-2

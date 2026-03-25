@@ -31,7 +31,8 @@ There are no additional setups required to integrate these products beyond ensur
 
 If these Adobe products are not yet set up and enabled, consult the following guides for detailed configuration steps:
 
-<!-- CARDS 
+<!--
+CARDS 
 
 * https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/video-playlists/assets-view
    {title=Set up AEM Assets}

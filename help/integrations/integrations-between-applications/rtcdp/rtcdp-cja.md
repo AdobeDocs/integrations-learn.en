@@ -1,10 +1,10 @@
 ---
 title: Integrate Real-Time Customer Data Platform with [!DNL Customer Journey Analytics]
 description: Learn how to integrate [!DNL Real-Time Customer Data  Platform] with [!DNL Customer Journey Analytics].
-solution: Real-Time Customer Data [!DNL Platform], Customer Journey [!DNL Analytics]
+solution: Real-Time Customer Data Platform, Customer Journey Analytics
 feature: Integrations
 topic: Integrations
-role: Leader, Architect, Admin, Developer
+role: Leader, Admin, Developer
 level: Beginner
 kt: null
 thumbnail: customer-journey-analytics-rtcdp.png

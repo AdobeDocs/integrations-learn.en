@@ -1,12 +1,12 @@
 ---
 title: Integrate Real-Time Customer Data Platform with [!DNL Campaign]
 description: Learn how to integrate Real-Time Customer Data Platform with [!DNL Campaign]
-solution: Real-Time Customer Data Platform, [!DNL Campaign]
+solution: Real-Time Customer Data Platform, Campaign
 feature: Integrations
 topic: Integrations
-role: Leader, Architect, Admin, Developer
+role: Leader, Admin, Developer
 level: Beginner
-index: no
+index: false
 thumbnail: campaign-rtcdp.png
 badgeIntegration: label="Integration" type="positive"
 last-substantial-update: 2023-06-30

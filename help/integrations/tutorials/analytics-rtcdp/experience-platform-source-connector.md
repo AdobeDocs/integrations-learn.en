@@ -1,12 +1,12 @@
 ---
 title: Integrate [!DNL Analytics] and Real-Time Customer Data [!DNL Platform] with Experience [!DNL Platform] source connector tutorial
 description: Learn how to integrate Adobe [!DNL Analytics] with Real-Time Customer Data [!DNL Platform] using the Experience [!DNL Platform] source connector.
-solution: Real-Time Customer Data [!DNL Platform], [!DNL Analytics]
+solution: Real-Time Customer Data Platform, Analytics
 feature: Integrations
 topic: Integrations
-role: Leader, Architect, Admin, Developer
+role: Leader, Admin, Developer
 level: Beginner
-index: yes
+index: true
 hidefromtoc: true
 kt: 13728
 thumbnail: null

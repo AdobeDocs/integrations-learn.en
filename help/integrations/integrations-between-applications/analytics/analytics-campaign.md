@@ -8,7 +8,7 @@ role: User, Developer
 level: Beginner
 kt: null
 thumbnail: analytics-campaign.png
-index: no
+index: false
 badgeIntegration: label="Integration" type="positive"
 last-substantial-update: 2023-05-19
 exl-id: ad99d8dd-046c-478b-afd8-48a265396769

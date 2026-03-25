@@ -1,10 +1,10 @@
 ---
 title: Integrate Adobe [!DNL Experience Platform] with other Adobe applications
 description: Learn how to integrate [!DNL Experience Platform] with other Adobe applications.
-solution: Experience [!DNL Platform]
+solution: Experience Platform
 feature: Integrations
 topic: Integrations
-role: Architect, Admin, Developer
+role: Admin, Developer
 level: Beginner
 jira: null
 thumbnail: experience-platform.png

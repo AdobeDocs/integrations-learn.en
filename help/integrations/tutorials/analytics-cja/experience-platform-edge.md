@@ -1,12 +1,12 @@
 ---
 title: Integrate Adobe [!DNL Analytics] and Customer Journey [!DNL Analytics] with the Experience [!DNL Platform] Edge tutorial
 description: Learn how to integrate Adobe [!DNL Analytics] with Customer Journey [!DNL Analytics] using the AEP Web SDK, AEP Mobile SDK, or the Edge Network Server API.
-solution: Customer Journey [!DNL Analytics], [!DNL Analytics]
+solution: Customer Journey Analytics, Analytics
 feature: Integrations
 topic: Integrations
 role: Developer
 level: Experienced
-index: yes
+index: true
 hidefromtoc: true
 kt: null
 thumbnail: 13728

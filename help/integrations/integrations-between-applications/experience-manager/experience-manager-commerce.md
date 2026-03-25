@@ -1,12 +1,12 @@
 ---
 title: Integrate AEM with Adobe [!DNL Commerce]
 description: Integrate Adobe Experience Manager (AEM) with Adobe [!DNL Commerce] to build engaging shopping experiences.
-solution: Experience Manager, Experience Manager Sites, [!DNL Commerce]
+solution: Experience Manager, Experience Manager Sites, Commerce
 feature: Integrations
 topic: Integrations
-role: Leader, Architect, Admin, Developer
+role: Leader, Admin, Developer
 level: Beginner
-index: no
+index: false
 kt: null
 thumbnail: commerce-experience-manager.png
 badgeIntegration: label="Integration" type="positive"

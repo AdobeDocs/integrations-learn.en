@@ -11,7 +11,7 @@ doc-type: Feature Video
 duration: 295
 last-substantial-update: 2024-11-20
 jira: KT-16483
-index: yes
+index: true
 hidefromtoc: false
 badgeIntegration: label="AEM Asset and GenStudio for Performance Marketing" type="positive"
 exl-id: 635c1a73-4abe-4e22-8755-f3fbc8f0b46e

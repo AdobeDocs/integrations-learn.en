@@ -4,7 +4,7 @@ description: Integrate Adobe Experience Manager (AEM) with [!DNL Campaign] to cr
 solution: Campaign, Campaign v8 Client Console, Campaign v8 Web User Interface, Campaign Standard, Campaign Classic v7, Experience Manager, Experience Manager Forms
 feature: Integrations
 topic: Integrations
-role: Leader, Architect, Admin, Developer
+role: Leader, Admin, Developer
 level: Beginner
 kt: null
 thumbnail: campaign-experience-manager.png

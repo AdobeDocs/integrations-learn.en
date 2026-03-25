@@ -4,9 +4,9 @@ description: Learn how to integrate [!DNL Campaign] v8 with Real-Time CDP.
 solution: Campaign, Campaign v8 Client Console, Campaign v8 Web User Interface, Real-Time Customer Data Platform
 feature: Integrations
 topic: Integrations
-role: Leader, Architect, Admin, Developer
+role: Leader, Admin, Developer
 level: Beginner
-index: yes
+index: true
 hidefromtoc: true
 kt: null
 thumbnail: null

@@ -1,12 +1,12 @@
 ---
 title: Integrate [!DNL Analytics] and Customer Journey [!DNL Analytics] with Experience [!DNL Platform] source connector tutorial
 description: Learn how to integrate Adobe [!DNL Analytics] with Customer Journey [!DNL Analytics] using the Experience [!DNL Platform] source connector.
-solution: Customer Journey [!DNL Analytics], [!DNL Target]
+solution: Customer Journey Analytics, Target
 feature: Integrations
 topic: Integrations
-role: Leader, Architect, Admin, Developer
+role: Leader, Admin, Developer
 level: Beginner
-index: yes
+index: true
 hidefromtoc: true
 kt: 13727
 thumbnail: null

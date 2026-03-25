@@ -4,9 +4,9 @@ description: Learn how to integrate [!DNL Analytics] with [!DNL Commerce].
 solution: Analytics, Commerce
 feature: Integrations
 topic: Integrations
-role: Leader, Architect, Admin, Developer
+role: Leader, Admin, Developer
 level: Beginner
-index: yes
+index: true
 hidefromtoc: true
 kt: null
 thumbnail: null

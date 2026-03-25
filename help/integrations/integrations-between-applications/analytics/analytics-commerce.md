@@ -4,7 +4,7 @@ description: Learn how to integrate [!DNL Analytics] with Adobe [!DNL Commerce] 
 solution: Analytics, Commerce
 feature: Integrations
 topic: Integrations
-role: Leader, Architect, Admin, Developer
+role: Leader, Admin, Developer
 level: Beginner
 kt: null
 thumbnail: analytics-commerce.png

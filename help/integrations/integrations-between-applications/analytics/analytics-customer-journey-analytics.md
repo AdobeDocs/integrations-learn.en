@@ -4,11 +4,11 @@ description: Learn how to integrate [!DNL Analytics] with Customer Journey [!DNL
 solution: Analytics, Customer Journey Analytics
 feature: Integrations
 topic: Integrations
-role: Leader, Architect, Admin, Developer
+role: Leader, Admin, Developer
 level: Intermediate
 kt: null
 thumbnail: analytics-customer-journey-analytics.png
-index: no
+index: false
 badgeIntegration: label="Integration" type="positive"
 last-substantial-update: 2023-06-29
 exl-id: 5b1b224f-3f0d-453b-b68d-77711d6acddc

@@ -4,7 +4,7 @@ description: Create a tutorial to guide users who want to set up self-serve down
 solution: Creative Cloud, Workfront
 feature: Integrations
 topic: Integrations
-role: Leader, Architect, Admin, Developer
+role: Leader, Admin, Developer
 level: Intermediate
 doc-type: Feature Video
 last-substantial-update: 2023-06-27

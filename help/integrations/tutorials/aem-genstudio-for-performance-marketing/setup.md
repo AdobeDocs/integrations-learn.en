@@ -10,7 +10,7 @@ level: Intermediate
 doc-type: Article
 duration: 416
 last-substantial-update: 2024-11-19
-index: yes
+index: true
 hidefromtoc: false
 jira: KT-16484
 exl-id: b63cfe6e-a530-4ca4-9e8e-16c54478054f
@@ -31,7 +31,8 @@ There are no additional setups required to integrate these products beyond ensur
 
 If these Adobe products are not yet set up and enabled, consult the following guides for detailed configuration steps:
 
-<!-- CARDS 
+<!--
+CARDS 
 
 * https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/video-playlists/assets-view
    {title=Set up AEM Assets}

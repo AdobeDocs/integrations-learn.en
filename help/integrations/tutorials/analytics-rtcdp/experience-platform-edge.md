@@ -1,12 +1,12 @@
 ---
 title: Integrate [!DNL Analytics] and Real-Time Customer Data [!DNL Platform] with the Experience [!DNL Platform] Edge tutorial
 description: Learn how to integrate Adobe [!DNL Analytics] with Real-Time Customer Data [!DNL Platform] using the AEP Web SDK, AEP Mobile SDK, or the Edge Network Server API.
-solution: Real-Time Customer Data [!DNL Platform], [!DNL Analytics]
+solution: Real-Time Customer Data Platform, Analytics
 feature: Integrations
 topic: Integrations
 role: Developer
 level: Experienced
-index: yes
+index: true
 hidefromtoc: true
 kt: 13732
 thumbnail: null

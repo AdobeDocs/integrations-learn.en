@@ -4,7 +4,7 @@ description: Integrate Adobe Experience Manager (AEM) with Workfront to streamli
 solution: Workfront, Experience Manager, Experience Manager Assets
 feature: Integrations
 topic: Integrations
-role: Leader, Architect, Admin, Developer
+role: Leader, Admin, Developer
 level: Beginner
 kt: null
 thumbnail: experience-manager-workfront.png

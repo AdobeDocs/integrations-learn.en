@@ -4,7 +4,7 @@ description: Integrate Adobe Experience Manager (AEM) with Acrobat Sign to strea
 solution: Experience Manager, Experience Manager Forms, Acrobat Sign
 feature: Integrations
 topic: Integrations
-role: Leader, Architect, Admin, Developer
+role: Leader, Admin, Developer
 level: Beginner
 kt: null
 thumbnail: sign-experience-manager.png

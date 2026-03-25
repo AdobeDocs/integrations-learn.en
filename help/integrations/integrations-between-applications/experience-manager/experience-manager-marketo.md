@@ -4,9 +4,9 @@ description: Integrate Adobe Experience Manager Forms (AEM Forms) with Marketo E
 solution: Experience Manager, Experience Manager Forms, Marketo Engage
 feature: Integrations
 topic: Integrations
-role: Leader, Architect, Admin, Developer
+role: Leader, Admin, Developer
 level: Beginner
-index: no
+index: false
 kt: null
 thumbnail: experience-manager-marketo.png
 badgeIntegration: label="Integration" type="positive"

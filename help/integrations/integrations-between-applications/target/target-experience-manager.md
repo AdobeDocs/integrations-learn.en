@@ -4,7 +4,7 @@ description: Integrate Adobe Experience Manager (AEM) with [!DNL Adobe Target] t
 solution: Target, Experience Manager, Experience Manager Sites
 feature: Integrations
 topic: Integrations
-role: Leader, Architect, Admin, Developer
+role: Leader, Admin, Developer
 level: Beginner
 kt: null
 thumbnail: experience-manager-target.png

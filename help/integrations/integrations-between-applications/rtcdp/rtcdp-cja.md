@@ -4,7 +4,7 @@ description: Learn how to integrate [!DNL Real-Time Customer Data  Platform] wit
 solution: Real-Time Customer Data [!DNL Platform], Customer Journey [!DNL Analytics]
 feature: Integrations
 topic: Integrations
-role: Leader, Architect, Admin, Developer
+role: Leader, Admin, Developer
 level: Beginner
 kt: null
 thumbnail: customer-journey-analytics-rtcdp.png

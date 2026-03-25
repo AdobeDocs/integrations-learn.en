@@ -4,7 +4,7 @@ description: Integrate Adobe Experience Manager (AEM) with Experience [!DNL Plat
 solution: Experience Manager, Experience Manager Sites, Experience [!DNL Platform]
 feature: Integrations
 topic: Integrations
-role: Leader, Architect, Admin, Developer
+role: Leader, Admin, Developer
 level: Beginner
 kt:
 thumbnail: experience-platform-experience-manager.png

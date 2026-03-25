@@ -4,9 +4,9 @@ description: Learn how to integrate Real-Time CDP and [!DNL Target] with Web SDK
 solution: Target, Real-Time Customer Data Platform
 feature: Integrations
 topic: Integrations
-role: Leader, Architect, Admin, Developer
+role: Leader, Admin, Developer
 level: Beginner
-index: yes
+index: true
 hidefromtoc: true
 last-substantial-update: 2023-07-25
 badgeIntegration: label="Integration" type="positive"

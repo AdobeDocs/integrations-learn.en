@@ -6,7 +6,7 @@ feature: Integrations
 topic: Integrations
 role: Admin, Developer
 level: Experienced
-index: yes
+index: true
 hidefromtoc: true
 kt: null
 thumbnail: null

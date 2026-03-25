@@ -4,9 +4,9 @@ description: Integrate Adobe Experience Manager (AEM) with [!DNL Analytics] to t
 solution: Analytics, Experience Manager, Experience Manager Sites
 feature: Integrations
 topic: Integrations
-role: Leader, Architect, Admin, Developer
+role: Leader, Admin, Developer
 level: Beginner
-index: no
+index: false
 kt: null
 thumbnail: analytics-experience-manager.png
 badgeIntegration: label="Integration" type="positive"

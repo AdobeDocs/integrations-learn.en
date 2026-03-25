@@ -4,9 +4,9 @@ description: Learn how to integrate Adobe [!DNL Analytics] with Adobe [!DNL Targ
 solution: Analytics, Target
 feature: Integrations
 topic: Integrations
-role: Leader, Architect, Admin, Developer
+role: Leader, Admin, Developer
 level: Beginner
-index: yes
+index: true
 hidefromtoc: true
 kt: null
 thumbnail: null

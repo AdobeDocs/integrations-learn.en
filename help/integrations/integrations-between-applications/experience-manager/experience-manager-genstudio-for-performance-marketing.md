@@ -4,9 +4,9 @@ description: Integrate AEM with GenStudio for Performance Marketing to accelerat
 solution: Experience Manager, GenStudio for Performance Marketing
 feature: Integrations
 topic: Integrations
-role: Leader, Architect, Admin
+role: Leader, Admin
 level: Beginner
-index: no
+index: false
 kt: null
 thumbnail: experience-manager-genstudio-for-performance-marketing.png
 badgeIntegration: label="Integration" type="positive"

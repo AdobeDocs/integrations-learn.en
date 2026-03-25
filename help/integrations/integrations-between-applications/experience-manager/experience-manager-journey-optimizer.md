@@ -4,9 +4,9 @@ description: Integrate AEM with Adobe Journey Optimizer to create and manage cus
 solution: Experience Manager, Journey Optimizer
 feature: Integrations
 topic: Integrations
-role: Leader, Architect, Admin, Developer
+role: Leader, Admin, Developer
 level: Beginner
-index: no
+index: false
 kt: null
 thumbnail: experience-manager-journey-optimizer.png
 badgeIntegration: label="Integration" type="positive"

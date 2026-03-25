@@ -1,10 +1,10 @@
 ---
 title: Integrate Audience Manager with [!DNL Analytics]
 description: Learn how to integrate Audience Manager with [!DNL Analytics].
-solution: Audience Manager, [!DNL Analytics]
+solution: Audience Manager, Analytics
 feature: Integrations
 topic: Integrations
-role: Leader, Architect, Admin, Developer
+role: Leader, Admin, Developer
 level: Beginner
 kt: null
 thumbnail: aam-analytics.png

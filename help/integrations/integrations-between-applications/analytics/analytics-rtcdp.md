@@ -4,11 +4,11 @@ description: Learn how to integrate [!DNL Analytics] with the Real-Time Customer
 solution: Analytics, Real-Time Customer Data Platform
 feature: Integrations
 topic: Integrations
-role: Leader, Architect, Admin, Developer
+role: Leader, Admin, Developer
 level: Intermediate
 kt: null
 thumbnail: analytics-rtcdp.png
-index: no
+index: false
 badgeIntegration: label="Integration" type="positive"
 last-substantial-update: 2023-06-29
 exl-id: 2923b6a3-7133-475e-a896-b4c64ea47ade

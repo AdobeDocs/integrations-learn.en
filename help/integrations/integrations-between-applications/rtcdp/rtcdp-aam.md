@@ -4,7 +4,7 @@ description: Learn how to integrate Real-Time Customer Data [!DNL Platform] with
 solution: Real-Time Customer Data Platform, Audience Manager
 feature: Integrations
 topic: Integrations
-role: Leader, Architect, Admin, Developer
+role: Leader, Admin, Developer
 level: Beginner
 kt: null
 thumbnail: aam-rtcdp.png

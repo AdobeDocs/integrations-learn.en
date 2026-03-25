@@ -3,7 +3,7 @@ title: Short clips from Adobe Summit 2025
 description: Welcome to this playlist of short clips from Adobe Summit 2025 — packed with nuggets of insight pulled from full-length sessions.
 doc-type: Short Video
 duration: 20
-index: no
+index: false
 hide: yes
 hidefromtoc: yes
 recommendations: noCatalog, noDisplay

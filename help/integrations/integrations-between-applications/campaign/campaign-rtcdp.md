@@ -4,7 +4,7 @@ description: Learn how to integrate [!DNL Campaign] with [!DNL Real-Time Custome
 solution: Campaign, Campaign v8 Client Console, Campaign v8 Web User Interface, Real-Time Customer Data Platform
 feature: Integrations
 topic: Integrations
-role: Leader, Architect, Admin, Developer
+role: Leader, Admin, Developer
 level: Beginner
 last-substantial-update: 2023-06-30
 badgeIntegration: label="Integration" type="positive"

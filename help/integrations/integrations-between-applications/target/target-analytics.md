@@ -4,7 +4,7 @@ description: Learn how to integrate Adobe [!DNL Target] with Adobe [!DNL Analyti
 solution: Target, Analytics
 feature: Integrations
 topic: Integrations
-role: Leader, Architect, Admin, Developer
+role: Leader, Admin, Developer
 level: Beginner
 kt: null
 thumbnail: analytics-target.png

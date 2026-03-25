@@ -10,7 +10,7 @@ level: Intermediate
 doc-type: Article
 duration: 416
 last-substantial-update: 2024-11-19
-index: yes
+index: true
 hidefromtoc: false
 jira: KT-16484
 exl-id: b63cfe6e-a530-4ca4-9e8e-16c54478054f

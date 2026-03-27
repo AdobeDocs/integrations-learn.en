@@ -169,7 +169,7 @@ Within today's highly competitive and digitally-driven landscape, customers have
       </td>
     </tr>
     <tr>
-      <td rowspan="2"><strong>Personalize web experiences</strong></td>
+      <td rowspan="3"><strong>Personalize web experiences</strong></td>
       <td>
         Customize single-page application (SPA) experiences by effectively
         utilizing AEM Headless in conjunction with Adobe [!DNL Target].
@@ -213,6 +213,29 @@ Within today's highly competitive and digitally-driven landscape, customers have
         >
       </td>
     </tr>
+    <tr>
+      <td>
+        Practical tips for AEM and Adobe [!DNL Target] integration
+      </td>
+      <td>
+        <ul style="margin-top: 0;">
+          <li>Use Experience Fragments for Scalable Personalization</li>
+          <li>Mirror ContextHub Segments to Target Audiences</li>
+          <li>Make Experience Fragments Target-Ready</li>
+          <li>Build Target Validation into Launch Workflows</li>
+          <li>Combine Dynamic Media + Target for Visual Personalization</li>
+          <li>Author for Edge Delivery</li>
+        </ul>
+      </td>
+      <td>
+        <a
+          href="https://experienceleague.adobe.com/en/perspectives/personalization-that-scales-practical-tips-for-aem-adobe-target-integration"
+          target="_blank"
+          rel="noopener noreferrer"
+          >AEM Sites and [!DNL Target]</a
+        >
+      </td>
+    </tr>    
     <tr>
       <td><strong>Personalize digital experiences</strong></td>
       <td>

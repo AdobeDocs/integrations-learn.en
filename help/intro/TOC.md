@@ -9,7 +9,7 @@ auto-video-transcripts: true
 
 + Video shorts {#video-clips}
     + 2025 {#2025}
-        + [Playlists](video-clips/summit/2025/playlists.md)
+        + {hide-from-toc} [Playlists](video-clips/summit/2025/playlists.md)
 
 <!--
 Removed for v2 validation

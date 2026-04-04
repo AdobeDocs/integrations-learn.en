@@ -7,7 +7,6 @@ topic: Integrations
 role: Leader, Admin, Developer
 level: Beginner
 index: true
-hidefromtoc: true
 kt: 13728
 thumbnail: null
 last-substantial-update: 2023-04-11

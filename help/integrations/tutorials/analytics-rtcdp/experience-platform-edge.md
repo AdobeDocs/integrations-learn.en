@@ -7,7 +7,6 @@ topic: Integrations
 role: Developer
 level: Experienced
 index: true
-hidefromtoc: true
 kt: 13732
 thumbnail: null
 last-substantial-update: 2023-04-11

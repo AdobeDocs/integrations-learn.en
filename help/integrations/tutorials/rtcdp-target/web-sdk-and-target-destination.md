@@ -7,7 +7,6 @@ topic: Integrations
 role: Leader, Admin, Developer
 level: Beginner
 index: true
-hidefromtoc: true
 last-substantial-update: 2023-07-25
 badgeIntegration: label="Integration" type="positive"
 exl-id: 1b589687-eebc-457f-b1fc-72768cb79006

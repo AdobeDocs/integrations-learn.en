@@ -4,7 +4,7 @@ description: Welcome to this playlist of short clips from Adobe Summit 2025 — 
 doc-type: Short Video
 duration: 20
 index: false
-hide: yes
+hide: true
 recommendations: noCatalog, noDisplay
 exl-id: 578a6214-ff9b-4f39-9328-96f59412bd91
 ---

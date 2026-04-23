@@ -2,6 +2,18 @@
 title: Application integrations for B2B marketing
 description: Coordinate lead management, ABM, and attribution at scale across channels based on unified customer profiles and data.
 exl-id: ed4fb791-7883-4f42-80a0-12ab4e3c80ab
+TQID: https://experienceleague.adobe.com/QzQkgpR9mqA5QUIa4pZiBBXnWYCafxne6bGosQhyeGA
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: Experience Cloud
+feature_v2:
+  - id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
+    internal-label: Integrations
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
+  - id: fd2e3797-f2ea-4b36-a9af-52acf5e90513
+    internal-label: Customer profiles
 ---
 # B2B marketing
 

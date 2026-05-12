@@ -2,6 +2,24 @@
 title: Application integrations for the customer journey
 description: Develop real-time customer profiles by pulling data from all sources to create personalized, cross-channel journeys.
 exl-id: eb653b89-db0f-433a-8641-bbeb32197096
+TQID: https://experienceleague.adobe.com/XkEYtGUFWDMXc-qm4PMeRVNK8hduYOZ7sj2fkyWMCZM
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: Experience Cloud
+feature_v2:
+  - id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
+    internal-label: Integrations
+topic_v2:
+  - id: beb7a3c1-66ab-4786-b879-7621375b3c40
+    internal-label: Email marketing
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
+  - id: fd2e3797-f2ea-4b36-a9af-52acf5e90513
+    internal-label: Customer profiles
+  - id: ff2b9b37-92e0-45fc-b853-379d44c08c89
+    internal-label: Audience segmentation
 ---
 # Customer journey
 

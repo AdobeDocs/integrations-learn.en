@@ -2,6 +2,20 @@
 title: Application integrations for content supply chain
 description: Plan, create, personalize, and publish content.
 exl-id: 00a15be9-612e-4210-8b2a-77274aa5713c
+TQID: https://experienceleague.adobe.com/1OyoS3OaD8POo-SLGbdX2fApV4MokuigC3sM9xv2ea0
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: Experience Cloud
+feature_v2:
+  - id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
+    internal-label: Integrations
+topic_v2:
+  - id: beb7a3c1-66ab-4786-b879-7621375b3c40
+    internal-label: Email marketing
+  - id: d00e9f03-e50b-4162-b143-0c0817c937c2
+    internal-label: Customer journeys
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
 ---
 # Content supply chain
 

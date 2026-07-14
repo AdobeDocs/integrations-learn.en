@@ -12,7 +12,7 @@ thumbnail: experience-manager-marketo.png
 badgeIntegration: label="Integration" type="positive"
 last-substantial-update: 2023-07-31T00:00:00.000Z
 exl-id: c943b334-19b7-4dc8-962a-aacc18bbd9f2
-TQID: https://experienceleague.adobe.com/gD---czX7Hy8B00lC0BR0F2OrKwFyz3qZu4c0G7Q05U
+TQID: https://experienceleague.adobe.com/gD%2D%2D%2DczX7Hy8B00lC0BR0F2OrKwFyz3qZu4c0G7Q05U
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage

@@ -6,12 +6,12 @@ feature: Integrations
 topic: Integrations
 role: Leader, Admin, Developer
 level: Beginner
-kt: null
+kt: 
 thumbnail: campaign-experience-manager.png
 badgeIntegration: label="Integration" type="positive"
 last-substantial-update: 2023-07-31T00:00:00.000Z
 exl-id: 3b186af3-d72f-4fe5-adfb-daad94075095
-TQID: https://experienceleague.adobe.com/9M0qXs4PA-DiTk-FfDr73aCiyhIFsOR-vjeykwVqsrE
+TQID: 'https://experienceleague.adobe.com/9M0qXs4PA-DiTk-FfDr73aCiyhIFsOR-vjeykwVqsrE'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
     internal-label: Campaign
@@ -19,6 +19,12 @@ product_v2:
     internal-label: Experience Manager Forms
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
+  - id: ccdd4c6f-8203-4e89-85f0-79883f86f5fd
+    internal-label: Campaign v8 Web User Interface
+  - id: f5407121-8933-4ac3-8e06-a9b692a4e88a
+    internal-label: Campaign Standard
+  - id: fd6e6e36-54e4-4f1a-96fc-1a750e400d50
+    internal-label: Campaign Classic v7
 feature_v2:
   - id: a075b2c1-7748-4328-b7f6-343aa314616a
     internal-label: Campaigns

@@ -8,11 +8,11 @@ role: Developer
 level: Experienced
 index: true
 kt: 13732
-thumbnail: null
+thumbnail: 
 last-substantial-update: 2023-04-11T00:00:00.000Z
 badgeIntegration: label="Integration" type="positive"
 exl-id: 07c2c329-0810-4f66-a91a-e315695f3fb4
-TQID: https://experienceleague.adobe.com/K1CpRtUekl5jQNDMGswJpexC9fv9uVmgraLlNFXUIr8
+TQID: 'https://experienceleague.adobe.com/K1CpRtUekl5jQNDMGswJpexC9fv9uVmgraLlNFXUIr8'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
     internal-label: Analytics
@@ -29,6 +29,9 @@ subfeature_v2:
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
     internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
     internal-label: Implementation

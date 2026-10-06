@@ -6,11 +6,11 @@ feature: Integrations
 topic: Integrations
 role: Leader, Admin, Developer
 level: Beginner
-kt: null
+kt: 
 thumbnail: experience-platform-experience-manager.png
 badgeIntegration: label="Integration" type="positive"
 last-substantial-update: 2023-07-31T00:00:00.000Z
-TQID: https://experienceleague.adobe.com/zsdArkpgE60LMSOLsVwtEzQ2oZ9rDQUUorXm8qE-pcs
+TQID: 'https://experienceleague.adobe.com/zsdArkpgE60LMSOLsVwtEzQ2oZ9rDQUUorXm8qE-pcs'
 product_v2:
   - id: c45915cf-e157-4af7-a80d-97b905bcb3a5
     internal-label: Experience Manager Sites
@@ -22,9 +22,14 @@ feature_v2:
   - id: ae478996-b206-4712-9b0c-dc78a2644453
     internal-label: Integrations
   - id: c132d929-fa62-4271-803e-b823be07b914
-    internal-label: Profile
+    internal-label: ''
   - id: d429a63e-ade4-4117-b04e-9b996d1c94ef
     internal-label: Integrations
+  - id: ed0d8d0e-04b9-4326-be72-a0fbca265377
+    internal-label: ''
+  - id: f6ac78a3-5b59-40f5-a37d-45df5303d3a3
+    internal-label: Dashboards
+subfeature_v2:
   - id: ed0d8d0e-04b9-4326-be72-a0fbca265377
     internal-label: Integrations
 role_v2:

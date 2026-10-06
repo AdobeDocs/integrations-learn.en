@@ -6,13 +6,13 @@ feature: Integrations
 topic: Integrations
 role: Leader, Admin, Developer
 level: Beginner
-kt: null
+kt: 
 thumbnail: creativecloud-workfront.png
 badgeIntegration: label="Integration" type="positive"
 last-substantial-update: 2023-07-25T00:00:00.000Z
 index: false
 exl-id: ec9dff0d-7246-4c7d-9af9-38280e53713d
-TQID: https://experienceleague.adobe.com/wQJzRJYUjga70UgoLGIdgpntEg8WmhhQAYSbsWVnOQU
+TQID: 'https://experienceleague.adobe.com/wQJzRJYUjga70UgoLGIdgpntEg8WmhhQAYSbsWVnOQU'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
@@ -20,6 +20,8 @@ product_v2:
     internal-label: Creative Cloud
 feature_v2:
   - id: f48b5020-b9cd-4d99-bc6e-42c35e90c1f8
+    internal-label: Integrations
+  - id: dcec6556-a754-5235-b219-42ccb80fd3a2
     internal-label: Integrations
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd

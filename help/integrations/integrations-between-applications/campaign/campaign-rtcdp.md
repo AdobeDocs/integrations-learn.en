@@ -10,12 +10,14 @@ last-substantial-update: 2023-06-30T00:00:00.000Z
 badgeIntegration: label="Integration" type="positive"
 thumbnail: campaign-rtcdp.png
 exl-id: 8da35245-c489-4156-bc8d-e6afd334a7c3
-TQID: https://experienceleague.adobe.com/QfbCFprmgD9dp2M9l4yjcBiXLWUyBTWrc1OvcrRhEZM
+TQID: 'https://experienceleague.adobe.com/QfbCFprmgD9dp2M9l4yjcBiXLWUyBTWrc1OvcrRhEZM'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
     internal-label: Campaign
   - id: fdddec33-c9cb-4459-b8b6-2664395a6f10
     internal-label: Real-Time Customer Data Platform
+  - id: ccdd4c6f-8203-4e89-85f0-79883f86f5fd
+    internal-label: Campaign v8 Web User Interface
 feature_v2:
   - id: a075b2c1-7748-4328-b7f6-343aa314616a
     internal-label: Campaigns

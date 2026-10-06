@@ -7,17 +7,19 @@ topic: Integrations
 role: Admin, Developer
 level: Experienced
 index: true
-kt: null
-thumbnail: null
+kt: 
+thumbnail: 
 last-substantial-update: 2023-07-26T00:00:00.000Z
 badgeIntegration: label="Integration" type="positive"
 exl-id: 040f992e-029c-44a2-ac2b-10f2995a6c75
-TQID: https://experienceleague.adobe.com/pLNl9UefpDvhC5rfd4RiWWVAzYeLM0llgbbxHV1syxg
+TQID: 'https://experienceleague.adobe.com/pLNl9UefpDvhC5rfd4RiWWVAzYeLM0llgbbxHV1syxg'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
     internal-label: Campaign
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
+  - id: ccdd4c6f-8203-4e89-85f0-79883f86f5fd
+    internal-label: Campaign v8 Web User Interface
 feature_v2:
   - id: a075b2c1-7748-4328-b7f6-343aa314616a
     internal-label: Campaigns
@@ -32,6 +34,9 @@ role_v2:
     internal-label: Admin
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
     internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
     internal-label: Personalization

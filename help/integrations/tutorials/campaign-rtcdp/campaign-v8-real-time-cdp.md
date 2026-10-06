@@ -7,17 +7,19 @@ topic: Integrations
 role: Leader, Admin, Developer
 level: Beginner
 index: true
-kt: null
-thumbnail: null
+kt: 
+thumbnail: 
 last-substantial-update: 2023-04-11T00:00:00.000Z
 badgeIntegration: label="Integration" type="positive"
 exl-id: 5d9d82d0-7416-4b0a-895f-909058cd9a80
-TQID: https://experienceleague.adobe.com/YSUzzJKqiEuKPcMOpnd3-pFZt-ttcum4Swn4Z2GwxqU
+TQID: 'https://experienceleague.adobe.com/YSUzzJKqiEuKPcMOpnd3-pFZt-ttcum4Swn4Z2GwxqU'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
     internal-label: Campaign
   - id: fdddec33-c9cb-4459-b8b6-2664395a6f10
     internal-label: Real-Time Customer Data Platform
+  - id: ccdd4c6f-8203-4e89-85f0-79883f86f5fd
+    internal-label: Campaign v8 Web User Interface
 feature_v2:
   - id: a3f1e846-82a6-4574-9832-7d46ef69f306
     internal-label: Administration

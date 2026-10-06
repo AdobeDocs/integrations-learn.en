@@ -6,17 +6,19 @@ feature: Integrations
 topic: Integrations
 role: User
 level: Beginner
-kt: null
+kt: 
 thumbnail: campaign-target.png
 last-substantial-update: 2023-05-19T00:00:00.000Z
 badgeIntegration: label="Integration" type="positive"
 exl-id: a694b11a-a3e6-4cad-8682-00cf4bf9db41
-TQID: https://experienceleague.adobe.com/nrf8AlUUdPFueOastfUIZ83W45RQdxvSFp4KfRaM1dA
+TQID: 'https://experienceleague.adobe.com/nrf8AlUUdPFueOastfUIZ83W45RQdxvSFp4KfRaM1dA'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
     internal-label: Campaign
   - id: e43347a8-f2c5-4aa4-8623-6f13875d7e3a
     internal-label: Target
+  - id: f5407121-8933-4ac3-8e06-a9b692a4e88a
+    internal-label: Campaign Standard
 feature_v2:
   - id: a075b2c1-7748-4328-b7f6-343aa314616a
     internal-label: Campaigns

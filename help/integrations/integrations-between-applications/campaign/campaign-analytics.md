@@ -6,17 +6,19 @@ feature: Integrations
 topic: Integrations
 role: User, Developer
 level: Beginner
-kt: null
+kt: 
 thumbnail: analytics-campaign.png
 badgeIntegration: label="Integration" type="positive"
 last-substantial-update: 2023-05-19T00:00:00.000Z
 exl-id: b1962bfe-e483-4a80-8258-a5bf8454b54c
-TQID: https://experienceleague.adobe.com/9n5cEb--yI8Zz-a2YgEMgyBRE0bFKGJ0t1iaYK-tIyc
+TQID: 'https://experienceleague.adobe.com/9n5cEb--yI8Zz-a2YgEMgyBRE0bFKGJ0t1iaYK-tIyc'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
     internal-label: Campaign
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
     internal-label: Analytics
+  - id: f5407121-8933-4ac3-8e06-a9b692a4e88a
+    internal-label: Campaign Standard
 feature_v2:
   - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
     internal-label: Reports

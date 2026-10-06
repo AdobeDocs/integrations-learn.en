@@ -7,17 +7,19 @@ topic: Integrations
 role: Admin
 level: Experienced
 index: true
-kt: null
-thumbnail: null
+kt: 
+thumbnail: 
 last-substantial-update: 2023-07-26T00:00:00.000Z
 badgeIntegration: label="Integration" type="positive"
 exl-id: dbbaeeff-2c31-45c2-85af-ad1b80ba6c9c
-TQID: https://experienceleague.adobe.com/50dHlKuPXBpAQUFc9WarG4FW5qv6469CFPOo1kdTaok
+TQID: 'https://experienceleague.adobe.com/50dHlKuPXBpAQUFc9WarG4FW5qv6469CFPOo1kdTaok'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
     internal-label: Campaign
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
     internal-label: Analytics
+  - id: f5407121-8933-4ac3-8e06-a9b692a4e88a
+    internal-label: Campaign Standard
 feature_v2:
   - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
     internal-label: Reports
@@ -37,6 +39,9 @@ subfeature_v2:
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
     internal-label: Metadata

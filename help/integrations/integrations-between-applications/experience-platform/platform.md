@@ -6,15 +6,20 @@ feature: Integrations
 topic: Integrations
 role: Admin, Developer
 level: Beginner
-jira: null
+jira: 
 thumbnail: experience-platform.png
 last-substantial-update: 2023-07-19T00:00:00.000Z
 exl-id: ef86a50c-b8ff-4371-a9e9-8fc51aa1769a
-TQID: https://experienceleague.adobe.com/H19eCvFAp49Djwnx6z7-DuDiqDj5m0OShtztTQKyV5Y
+TQID: 'https://experienceleague.adobe.com/H19eCvFAp49Djwnx6z7-DuDiqDj5m0OShtztTQKyV5Y'
 product_v2:
   - id: edbd1a0e-46c8-49da-8c10-dba9ec80bba9
     internal-label: Experience Platform
 feature_v2:
+  - id: ed0d8d0e-04b9-4326-be72-a0fbca265377
+    internal-label: ''
+  - id: f6ac78a3-5b59-40f5-a37d-45df5303d3a3
+    internal-label: Dashboards
+subfeature_v2:
   - id: ed0d8d0e-04b9-4326-be72-a0fbca265377
     internal-label: Integrations
 role_v2:

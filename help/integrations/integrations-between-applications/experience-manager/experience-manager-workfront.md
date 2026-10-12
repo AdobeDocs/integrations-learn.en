@@ -7,12 +7,12 @@ topic: Integrations
 role: Leader, Admin, Developer
 level: Beginner
 index: false
-kt: null
+kt: 
 thumbnail: experience-manager-workfront.png
 badgeIntegration: label="Integration" type="positive"
 last-substantial-update: 2023-04-11T00:00:00.000Z
 exl-id: ee7d6c08-7e22-43f4-b2ff-979f7bff97c1
-TQID: https://experienceleague.adobe.com/tmd2zmBHV0R-ftSjTT0TGecGW4HZih-K44kKSSdt-6I
+TQID: 'https://experienceleague.adobe.com/tmd2zmBHV0R-ftSjTT0TGecGW4HZih-K44kKSSdt-6I'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
@@ -26,7 +26,7 @@ feature_v2:
   - id: ae478996-b206-4712-9b0c-dc78a2644453
     internal-label: Integrations
   - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
-    internal-label: Resource Management
+    internal-label: Resource management
   - id: e17747bc-9b7b-44e6-a443-f54229a02620
     internal-label: Integrations
   - id: f48b5020-b9cd-4d99-bc6e-42c35e90c1f8

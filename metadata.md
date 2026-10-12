@@ -1,9 +1,6 @@
 ---
 cloud: Experience Cloud
 solution: CX Enterprise
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-    internal-label: "Experience Cloud"
 usetq: true
 topic: Integrations
 product: experience cloud
@@ -13,6 +10,9 @@ mini-toc-levels: 2
 auto-video-transcripts: true
 git-repo: https://github.com/AdobeDocs/integrations-learn.en
 index: true
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 ---
 
 # Metadata for internal use
